@@ -1,0 +1,9 @@
+/* Gold Glow Effect */
+button:hover {
+  box-shadow: 0 0 8px #d4af37;
+}
+
+/* Smooth transitions */
+* {
+  transition: all 0.3s ease-in-out;
+}
