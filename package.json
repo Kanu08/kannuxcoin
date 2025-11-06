@@ -1,0 +1,13 @@
+{
+  "name": "kannux_coin",
+  "version": "1.0.0",
+  "description": "AI-powered crypto chatbot interface for KANNUX Coin",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
